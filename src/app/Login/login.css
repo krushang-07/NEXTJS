@@ -1,0 +1,26 @@
+.main-container{
+    display: flex;
+}
+
+.main-container li{
+    margin-left: 25px;
+    list-style-type: none;
+
+}
+.main-container li a{
+    text-decoration: none;
+}
+
+.main-container h4{
+    margin: 0;
+}
+.heading{
+     color: green;
+     margin-top: 50px;
+     text-align: center;
+     font-size: 30px;
+     background-color: aliceblue;
+     border:2px solid;
+     border-radius: 5px;
+     padding:10px;
+}
